@@ -1,1 +1,1 @@
-Python Variables.
+Data Types and Variables.
